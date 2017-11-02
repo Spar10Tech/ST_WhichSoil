@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+	<Operation Class="PatchOperationReplace">
+	    <xpath>/Defs/TerrainDef[defName="Gravel"]/texturePath</xpath>
+	    <value>
+			<texturePath>Gravel</texturePath>
+	    </value>
+	</Operation>
+	<Operation Class="PatchOperationReplace">
+	    <xpath>/Defs/TerrainDef[defName="Marsh"]/texturePath</xpath>
+	    <value>
+			<texturePath>Marsh</texturePath>
+	    </value>
+	</Operation>
+	<Operation Class="PatchOperationReplace">
+	    <xpath>/Defs/TerrainDef[defName="MarshyTerrain"]/texturePath</xpath>
+	    <value>
+			<texturePath>MarshyTerrain</texturePath>
+	    </value>
+	</Operation>
+	<Operation Class="PatchOperationReplace">
+	    <xpath>/Defs/TerrainDef[defName="MossyTerrain"]/texturePath</xpath>
+	    <value>
+			<texturePath>Mossy</texturePath>
+	    </value>
+	</Operation>
+	<Operation Class="PatchOperationReplace">
+	    <xpath>/Defs/TerrainDef[defName="Mud"]/texturePath</xpath>
+	    <value>
+			<texturePath>Mud</texturePath>
+	    </value>
+	</Operation>
+	<Operation Class="PatchOperationReplace">
+	    <xpath>/Defs/TerrainDef[defName="SoilRich"]/texturePath</xpath>
+	    <value>
+			<texturePath>SoilRich</texturePath>
+	    </value>
+	</Operation>
+</Patch>

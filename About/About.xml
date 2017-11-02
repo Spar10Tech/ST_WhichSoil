@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<ModMetaData>
+		<name>ST -  Which soil?</name>
+		<author>Spar10Tech</author>
+		<url></url>
+		<targetVersion>0.18.1700</targetVersion>
+		<description>v1.0
+		This mod changes or modifies some of the original terrain textures to look natural and easier to distinguish between them.  
+		
+		Right now only the gravel and rich soil have been changed.
+		</description>
+</ModMetaData>
